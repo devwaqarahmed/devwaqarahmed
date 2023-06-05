@@ -3,5 +3,5 @@
 
 ### My Skills:
 
-Languages: **PHP , HTML CSS , JAVASCRIPT**
+Languages: **PHP , HTML CSS , WORDPRESS ,JAVASCRIPT**
 Tools: **VS Code, XAMPP , Sublime , Figma , Canva**
