@@ -5,7 +5,9 @@
 
 Languages: **PHP , HTML CSS , WORDPRESS ,JAVASCRIPT**
 Tools: **VS Code, XAMPP , Sublime , Figma , Canva**
-
+**
 Portfolio Website: https://devwaqarahmed.github.io/portfolio/
+
 Linked In:https://www.linkedin.com/in/waqar-ahmed-b33792274/
-Facebook: https://www.facebook.com/profile.php?id=100092457634902
+
+Facebook: https://www.facebook.com/profile.php?id=100092457634902**
