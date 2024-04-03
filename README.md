@@ -3,9 +3,9 @@
 
 ### My Skills:
 
--WordPress Design
--Figma to WordPress
--E-commerce Development
+-WordPress Design <br>
+-Figma to WordPress <br>
+-E-commerce Development <br>
 -WordPress Theme Development & customization
 -Website Speed optimization
 -SEO
