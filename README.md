@@ -6,7 +6,7 @@
 -WordPress Design <br>
 -Figma to WordPress <br>
 -Ecommerce Development <br>
--WordPress Theme Development & customization <be>
+-WordPress Theme Development & customization <br>
 -Website Speed optimization <br>
 -SEO
 
